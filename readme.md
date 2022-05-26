@@ -68,11 +68,11 @@ Number of Restaurants and Reviews used:
 
 The codes can be found in the [ Jupyter notebook](https://github.com/swami84/restaurant_sentiment_word_cloud/blob/master/notebooks/Sentiment%20Word%20Cloud%20by%20Cuisine.ipynb)
 
-Raw reviews can be downloaded from https://drive.google.com/drive/folders/14Oz64knRQ8gE9fF4_FXrMmattQ6S11E3?usp=sharing. Please send an email to [swami.me@gmail.com](mailto:swami.me@gmail.com) to request access
+Raw reviews can be downloaded from https://drive.google.com/drive/folders/14Oz64knRQ8gE9fF4_FXrMmattQ6S11E3?usp=sharing. Please send an email to [swami.me@gmail.com](mailto:swami.me@gmail.com) to request access.
 
 ###  Output
 
-All outputs are stored as .png images in `./data/output/wordclouds/` folder. Below we can see an example for Mexican cuisine
+All outputs are stored as .png images in [output](https://github.com/swami84/restaurant_sentiment_word_cloud/tree/master/data/output/wordclouds) folder. Below an example for Mexican cuisine is shown
 
 #### Mexican Restaurant
 
