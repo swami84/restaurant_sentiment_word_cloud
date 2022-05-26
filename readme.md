@@ -53,13 +53,14 @@ Number of Restaurants and Reviews used:
 
 ###  Output
 
-All outputs are stored as .jpg images in `./data/output/wordclouds/` folder. Below we can see an example for Mexican cuisine
+All outputs are stored as .png images in `./data/output/wordclouds/` folder. Below we can see an example for Mexican cuisine
 
 #### Mexican Restaurant
 
-![Mexican Restaurants: Negative Sentiment](https://github.com/swami84/restaurant_sentiment_word_cloud/blob/master/data/output/wordclouds/mexican/mexican_negative.png)
-
-![Mexican Restaurants: Positive Sentiment](https://github.com/swami84/restaurant_sentiment_word_cloud/blob/master/data/output/wordclouds/mexican/mexican_positive.png)
+<p align="center">
+    <img src="https://github.com/swami84/restaurant_sentiment_word_cloud/raw/master/data/output/wordclouds/mexican/mexican_negative.png#Negative Sentiment" height="540" width="540"/>
+    <img src="https://raw.githubusercontent.com/swami84/restaurant_sentiment_word_cloud/master/data/output/wordclouds/mexican/mexican_positive.png#Positive Sentiment" height="540" width="540"/>
+</p>
 
 - Both positive and negative reviews emphasize on service
 
