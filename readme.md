@@ -1,10 +1,7 @@
 Restaurant Sentiment Word Cloud
 =====================================
 
-###  
-
-Description:
-------------
+### Description:
 
 This repo uses the scraped restaurant reviews from [Scraper](https://github.com/swami84/restaurant_review_scraper) and with updated restaurant types/cuisines from [Google Maps Restaurant Type Classification](https://github.com/swami84/NLP_Text-Classification) to generate word clouds for positive ( >3 stars rating) and negative ( < 3 stars  rating) sentiment.
 
