@@ -58,8 +58,8 @@ All outputs are stored as .png images in `./data/output/wordclouds/` folder. Bel
 #### Mexican Restaurant
 
 <p align="center">
-    <img src="https://github.com/swami84/restaurant_sentiment_word_cloud/raw/master/data/output/wordclouds/mexican/mexican_negative.png#Negative Sentiment" height="270" width="270"/>
-    <img src="https://raw.githubusercontent.com/swami84/restaurant_sentiment_word_cloud/master/data/output/wordclouds/mexican/mexican_positive.png#Positive Sentiment" height="270" width="270"/>
+    <img src="https://github.com/swami84/restaurant_sentiment_word_cloud/raw/master/data/output/wordclouds/mexican/mexican_negative.png#Negative Sentiment" height="350" width="350"/>
+    <img src="https://raw.githubusercontent.com/swami84/restaurant_sentiment_word_cloud/master/data/output/wordclouds/mexican/mexican_positive.png#Positive Sentiment" height="350" width="350"/>
 </p>
 
 - Both positive and negative reviews emphasize on service
